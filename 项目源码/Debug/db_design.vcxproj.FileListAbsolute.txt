@@ -1,0 +1,4 @@
+D:\db_design\db_design\Debug\db_design.exe
+D:\db_design\db_design\Debug\db_design.pdb
+D:\db_design\source_code\Debug\db_design.exe
+D:\db_design\source_code\Debug\db_design.pdb

@@ -1,0 +1,27 @@
+﻿  bank.cpp
+D:\db_design\source_code\bank.cpp(42,43): warning C4244: “=”: 从“my_ulonglong”转换到“int”，可能丢失数据
+D:\db_design\source_code\bank.cpp(92,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\db_design\source_code\bank.cpp(93,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\db_design\source_code\bank.cpp(94,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\db_design\source_code\bank.cpp(354,13): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\db_design\source_code\bank.cpp(356,13): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\db_design\source_code\bank.cpp(382,13): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\db_design\source_code\bank.cpp(386,12): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\db_design\source_code\bank.cpp(404,13): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\db_design\source_code\bank.cpp(427,13): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\db_design\source_code\bank.cpp(432,12): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\db_design\source_code\bank.cpp(453,13): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\db_design\source_code\bank.cpp(458,12): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\db_design\source_code\bank.cpp(471,13): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\db_design\source_code\bank.cpp(477,12): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\db_design\source_code\bank.cpp(481,14): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\db_design\source_code\bank.cpp(509,13): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\db_design\source_code\bank.cpp(514,12): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\db_design\source_code\bank.cpp(536,13): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\db_design\source_code\bank.cpp(541,12): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\db_design\source_code\bank.cpp(544,13): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\db_design\source_code\bank.cpp(546,13): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\db_design\source_code\bank.cpp(558,13): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\db_design\source_code\bank.cpp(571,13): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\db_design\source_code\bank.cpp(573,13): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  db_design.vcxproj -> D:\db_design\source_code\Debug\db_design.exe
